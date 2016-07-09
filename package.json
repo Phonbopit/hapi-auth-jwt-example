@@ -1,0 +1,12 @@
+{
+  "name": "hapi-auth-jwt-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "hapi": "^13.5.0",
+    "hapi-auth-jwt2": "^7.0.1"
+  }
+}
