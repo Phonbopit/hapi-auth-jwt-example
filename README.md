@@ -18,4 +18,4 @@ curl -i -H "authorization: <TOKEN> http://localhost:5000/me"
 ```
 
 Reference : [Token และ JWT คืออะไร? + ทำ JWT Authentication ด้วย Hapi.js
-](http://devahoy.com/posts/understanding-token-and-jwt-create-authentication-with-hapijs/)
+](https://devahoy.com/blog/2016/07/understanding-token-and-jwt-create-authentication-with-hapijs/)
